@@ -14,5 +14,5 @@ export DB_FILE OUTFILE LENGTH SAMPLE_SIZE
 
 for SAMPLE_SIZE in $SAMPLE_SIZES; do
 	# Run the sampler for different sample sizes
-	python3 $PATH_TO_SAMPLER
+	python3 "$PATH_TO_SAMPLER"
 done
