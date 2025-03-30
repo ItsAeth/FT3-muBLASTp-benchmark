@@ -1,4 +1,4 @@
-# FT3-muBLASTp-benchmark
+# muBLASTp-benchmark
 Scripts for benchmarking muBLASTp on HPC systems with the slurm workload manager, tested on Finisterrae III (Galicia Supercomputing Center).
 
 ## How to use:
