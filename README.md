@@ -1,5 +1,5 @@
 # muBLASTp-benchmark
-Template scripts for benchmarking muBLASTp on HPC systems. Includes a header to run the scripts on a system with the slurm workload manager.
+Template scripts for benchmarking muBLASTp on multicore CPUs. Includes a header to run the scripts on a system with the slurm workload manager.
 
 ## How to use:
   1. Download muBLASTp from the repository: https://github.com/vtsynergy/muBLASTP
